@@ -28,8 +28,12 @@ Flatline provides **branchless** selectors, **masked** memory ops, **table sweep
 - **Tested**: unit tests, micro‑benchmarks, and a DUDECT‑like timing harness included.
 
 ---
+## Install (with clib)
 
-## Install
+```bash
+clib install stateless-me/flatline
+```
+## Install (manual)
 
 1) Copy `flatline.h` to your project.  
 2) Include it where needed:
