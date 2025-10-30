@@ -1,0 +1,22 @@
+{
+  "name": "flatline",
+  "version": "0.1.0",
+  "repo": "stateless-me/flatline",
+  "description": "Constant-time utilities for C. If time varies, secrets leak. Flatline it.",
+  "keywords": [
+    "constant-time",
+    "timing",
+    "side-channel",
+    "crypto",
+    "security",
+    "header-only",
+    "branchless",
+    "neon",
+    "sse2",
+    "avx2"
+  ],
+  "license": "MIT",
+  "src": [
+    "flatline.h"
+  ]
+}
