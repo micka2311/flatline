@@ -17,9 +17,9 @@ extern "C"
   Version
 ------------------------------------------------------------------------------*/
 #define FLATLINE_VERSION_MAJOR 0
-#define FLATLINE_VERSION_MINOR 2
+#define FLATLINE_VERSION_MINOR 1
 #define FLATLINE_VERSION_PATCH 0
-#define FLATLINE_VERSION_HEX 0x000200
+#define FLATLINE_VERSION_HEX 0x000100
 
 /*------------------------------------------------------------------------------
   Config / inline / restrict
